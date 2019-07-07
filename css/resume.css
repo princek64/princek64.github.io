@@ -1,7 +1,7 @@
 /*!
- * Start Bootstrap - My website v0.0.1 (https://jashanbhullar.github.io/)
- * Copyright 2013-2019 jashanbhullar
- * Licensed under MIT (https://github.com/BlackrockDigital/my-website/blob/master/LICENSE)
+ * Start Bootstrap - My website v0.0.1 ()
+ * Copyright 2013-2019 
+ * Licensed under  (https://github.com/BlackrockDigital/my-website/blob/master/LICENSE)
  */
 
 body {
@@ -72,7 +72,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #BD5D38;
+  background-color: steelblue;
 }
 
 .dev-icons {
@@ -80,7 +80,7 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #BD5D38;
+  color: steelblue;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -90,7 +90,7 @@ p.lead {
 }
 
 #sideNav .navbar-toggler:focus {
-  outline-color: #d48a6e;
+  outline-color: #7ba7cc;
 }
 
 @media (min-width: 992px) {
@@ -171,17 +171,17 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #BD5D38 !important;
+  background-color: steelblue !important;
 }
 
 .text-primary {
-  color: #BD5D38 !important;
+  color: steelblue !important;
 }
 
 a {
-  color: #BD5D38;
+  color: steelblue;
 }
 
 a:hover, a:focus, a:active {
-  color: #824027;
+  color: #315a7d;
 }
