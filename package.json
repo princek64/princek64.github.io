@@ -1,0 +1,22 @@
+{
+    "title": "My website",
+    "name": "my-website",
+    "version": "0.0.1",
+    "description": "Just a website about me.",
+    "devDependencies": {
+        "browser-sync": "2.24.7",
+        "gulp": "^3.9.1",
+        "gulp-autoprefixer": "6.0.0",
+        "gulp-clean-css": "3.10.0",
+        "gulp-header": "2.0.5",
+        "gulp-rename": "1.4.0",
+        "gulp-sass": "4.0.1",
+        "gulp-uglify": "3.0.1"
+    },
+    "scripts": {
+        "gulp": "./node_modules/.bin/gulp",
+        "dev": "npm run gulp dev",
+        "css": "npm run gulp css",
+        "js": "npm run gulp js"
+    }
+}
